@@ -8,7 +8,7 @@ We'll work with [Baltimore City Salary Data](https://data.baltimorecity.gov/data
 
 and **plotly express**:
 
-![alt](https://github.com/jhu-business-analytics/bmore-city-salaries-exploration/blob/main/fiscal-year-aggregated-viz/newplot.png)
+![alt](https://github.com/jhu-business-analytics/bmore-city-salaries-exploration/blob/main/fiscal-year-aggregated-viz/FY-trend.gif)
 
 # Data
 We use [Baltimore City Salary Data](https://data.baltimorecity.gov/datasets/baltimore-employee-salaries) from the Open Baltimore portal (downloaded on 04-06-2021).
